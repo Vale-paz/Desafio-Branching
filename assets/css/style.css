@@ -57,3 +57,13 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+.pp{
+  margin: 50px;
+}
+
+h3{
+  text-align: center;
+}
+p{
+  text-align:left;
+}
