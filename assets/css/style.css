@@ -36,7 +36,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #f3edf0;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
@@ -44,7 +44,7 @@ form {
 }
   
 .btn a {
-    color: white;
+    color: rgb(0, 0, 0);
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 300;
@@ -69,6 +69,8 @@ form {
 h3{
   text-align: center;
 }
+
 p{
   text-align:left;
 }
+
